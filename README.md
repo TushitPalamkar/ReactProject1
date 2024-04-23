@@ -1,1 +1,1 @@
-https://tushitpalamkar.github.io/#home
+https://tushitpalamkar.github.io
