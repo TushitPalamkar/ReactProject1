@@ -1,2 +1,1 @@
-https://tushitpalamkar.github.io/ReactProject1/#home
-
+https://tushitpalamkar.github.io/#home
