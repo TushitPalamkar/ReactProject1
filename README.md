@@ -1,1 +1,1 @@
-https://tushitpalamkar.github.io
+https://tushitpalamkar.github.io/ReactProject1/
